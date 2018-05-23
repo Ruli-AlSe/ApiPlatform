@@ -4,8 +4,32 @@
 		"selected_items":
 		[
 			[
-				"jso",
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"get",
+				"getToken"
+			],
+			[
+				"js",
 				"json"
+			],
+			[
+				"getto",
+				"gettoken"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"n",
+				"NOT"
 			],
 			[
 				"pass",
@@ -184,10 +208,6 @@
 				"errorNeurona"
 			],
 			[
-				"n",
-				"neuronas"
-			],
-			[
 				"pe",
 				"pesos"
 			],
@@ -248,10 +268,6 @@
 				"cNeuronas"
 			],
 			[
-				"get",
-				"getPesos"
-			],
-			[
 				"ge",
 				"getNeuronaPesos"
 			],
@@ -282,10 +298,6 @@
 			[
 				"pri",
 				"private"
-			],
-			[
-				"nav",
-				"navbar"
 			],
 			[
 				"na",
@@ -502,54 +514,34 @@
 			[
 				"dx",
 				"dX3"
-			],
-			[
-				"dX",
-				"dX2"
-			],
-			[
-				"fl",
-				"float"
-			],
-			[
-				"ma",
-				"main\tmain()"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/Http/Controllers/UserController.php",
+			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/models/user.ts",
 			"settings":
 			{
-				"buffer_size": 1870,
+				"buffer_size": 192,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "database.sql",
+			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.html",
 			"settings":
 			{
-				"buffer_size": 355,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "composer.json",
-			"settings":
-			{
-				"buffer_size": 1451,
+				"buffer_size": 1117,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "routes/web.php",
+			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/index.html",
 			"settings":
 			{
-				"buffer_size": 562,
+				"buffer_size": 301,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -592,21 +584,27 @@
 	},
 	"expanded_folders":
 	[
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes"
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app"
 	],
 	"file_history":
 	[
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/typings.d.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/.angular-cli.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/package.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/UserController.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Providers/JwtAuthServiceProvider.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Helpers/JwtAuth.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes/web.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/config/app.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/composer.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/package.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/database.sql",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes/api.php",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/User.php",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Kernel.php",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/.env",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/composer.json",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/package.json",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/database.sql",
 		"/home/alejandro-almanza/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
 		"/var/www/html/api-laravel/resources/views/welcome.blade.php",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/app.component.ts",
@@ -719,15 +717,7 @@
 		"/var/www/html/videos-laravel/app/User.php",
 		"/var/www/html/curso-laravel/probando-laravel/app/Http/routes.php",
 		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/index.blade.php",
-		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/note.blade.php",
-		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/saveNotes.blade.php",
-		"/var/www/html/curso-laravel/probando-laravel/app/Http/Controllers/NotesController.php",
-		"/var/www/html/curso-laravel/probando-laravel/database/seeds/rellena_notas.php",
-		"/var/www/html/curso-laravel/probando-laravel/database/migrations/2018_03_25_051803_add_field_frutas.php",
-		"/var/www/html/curso-laravel/probando-laravel/database/migrations/2018_03_25_050559_create_frutas_table.php",
-		"/var/www/html/curso-laravel/probando-laravel/composer.json",
-		"/var/www/html/curso-laravel/probando-laravel/resources/views/frutas/inicio.blade.php",
-		"/var/www/html/curso-laravel/probando-laravel/app/Http/Controllers/FrutasController.php"
+		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/note.blade.php"
 	],
 	"find":
 	{
@@ -762,32 +752,32 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/Http/Controllers/UserController.php",
+					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/models/user.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1870,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1359,
-								1359
+								181,
+								181
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 353.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -795,53 +785,25 @@
 				},
 				{
 					"buffer": 1,
-					"file": "database.sql",
+					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 355,
+						"buffer_size": 1117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								685,
+								685
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SQL/SQL.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "composer.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								348,
-								348
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -852,31 +814,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "routes/web.php",
+					"buffer": 2,
+					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 562,
+						"buffer_size": 301,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								523,
-								523
+								272,
+								272
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform"
 		}
 	]
 }
