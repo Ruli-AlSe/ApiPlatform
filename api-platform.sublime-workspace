@@ -4,12 +4,300 @@
 		"selected_items":
 		[
 			[
-				"nav",
-				"navbar-nav"
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"user",
+				"user_sm"
+			],
+			[
+				"us",
+				"user_sm"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"use",
+				"user_email"
 			],
 			[
 				"get",
-				"getToken"
+				"getProfile"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"u",
+				"urlGraph"
+			],
+			[
+				"fac",
+				"FacebookService"
+			],
+			[
+				"Fa",
+				"FacebookService"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"_us",
+				"_userService"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"col",
+				"col-md-7"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"tm_",
+				"tm_mday"
+			],
+			[
+				"ann",
+				"anno"
+			],
+			[
+				"fecha",
+				"fechaPtr"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"pala",
+				"palabra2"
+			],
+			[
+				"pal",
+				"palabra2"
+			],
+			[
+				"palabra",
+				"palabra1"
+			],
+			[
+				"divi",
+				"dividendo"
+			],
+			[
+				"num",
+				"numint"
+			],
+			[
+				"no",
+				"nota2"
+			],
+			[
+				"ima",
+				"image_new"
+			],
+			[
+				"image",
+				"image_gray"
+			],
+			[
+				"imag",
+				"image_new"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"pt_t",
+				"pt_totalY"
+			],
+			[
+				"pt",
+				"pt_finalY"
+			],
+			[
+				"pt_in",
+				"pt_initY"
+			],
+			[
+				"pt_",
+				"pt_initX"
+			],
+			[
+				"pt_x",
+				"pt_x1"
+			],
+			[
+				"image_",
+				"image_original"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"init",
+				"init_x"
+			],
+			[
+				"ini",
+				"init_y"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"img",
+				"img_width"
+			],
+			[
+				"im",
+				"image_new"
+			],
+			[
+				"ori",
+				"original_gray"
+			],
+			[
+				"ch",
+				"childGenes"
+			],
+			[
+				"gene",
+				"geneSet"
+			],
+			[
+				"sa",
+				"sample"
+			],
+			[
+				"ge",
+				"genes"
+			],
+			[
+				"c",
+				"child"
+			],
+			[
+				"bes",
+				"bestParent"
+			],
+			[
+				"be",
+				"bestFitness"
+			],
+			[
+				"sampl",
+				"sampleSize"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"_",
+				"_router"
+			],
+			[
+				"_ro",
+				"_route"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"_r",
+				"_router"
+			],
+			[
+				"def",
+				"DefaultComponent"
+			],
+			[
+				"o",
+				"OnInit"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"Ob",
+				"Observable"
+			],
+			[
+				"Http",
+				"HttpHeaders"
+			],
+			[
+				"Use",
+				"UserService"
+			],
+			[
+				"Htt",
+				"HttpClient"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"app",
+				"appRoutingProviders"
+			],
+			[
+				"Rou",
+				"RouterModule"
+			],
+			[
+				"impo",
+				"imports"
+			],
+			[
+				"nav",
+				"navbar-nav"
 			],
 			[
 				"js",
@@ -28,10 +316,6 @@
 				"array"
 			],
 			[
-				"n",
-				"NOT"
-			],
-			[
 				"pass",
 				"password"
 			],
@@ -40,20 +324,12 @@
 				"request"
 			],
 			[
-				"re",
-				"required\tAttr"
-			],
-			[
 				"l",
 				"label\tTag"
 			],
 			[
 				"arr",
 				"arrayCuadrado"
-			],
-			[
-				"sa",
-				"salXor"
 			],
 			[
 				"M",
@@ -66,10 +342,6 @@
 			[
 				"arra",
 				"arrayCirculo"
-			],
-			[
-				"con",
-				"content_file"
 			],
 			[
 				"line",
@@ -192,10 +464,6 @@
 				"fAprendizaje"
 			],
 			[
-				"c",
-				"capas"
-			],
-			[
 				"se",
 				"self"
 			],
@@ -244,304 +512,36 @@
 				"neurona_temp"
 			],
 			[
-				"nu",
-				"neuronasXCapa"
-			],
-			[
 				"neur",
 				"neurona_temp"
-			],
-			[
-				"A",
-				"ActivacionCapa"
-			],
-			[
-				"Pe",
-				"pesos"
-			],
-			[
-				"ra",
-				"random"
-			],
-			[
-				"cn",
-				"cNeuronas"
-			],
-			[
-				"ge",
-				"getNeuronaPesos"
-			],
-			[
-				"um",
-				"umbral1"
-			],
-			[
-				"getN",
-				"getNeuronaUmbral"
-			],
-			[
-				"getT",
-				"getTEntradas"
-			],
-			[
-				"do",
-				"double"
-			],
-			[
-				"vS",
-				"vSalidasDeseadas"
-			],
-			[
-				"Ac",
-				"ActivacionCapa"
-			],
-			[
-				"pri",
-				"private"
-			],
-			[
-				"na",
-				"navbar"
-			],
-			[
-				"hea",
-				"header\tTag"
-			],
-			[
-				"params",
-				"params_array"
-			],
-			[
-				"j",
-				"json"
-			],
-			[
-				"sta",
-				"status"
-			],
-			[
-				"sig",
-				"signup"
-			],
-			[
-				"jw",
-				"jwtAuth"
-			],
-			[
-				"pa",
-				"password"
-			],
-			[
-				"sha",
-				"sha256"
-			],
-			[
-				"dec",
-				"decoded"
-			],
-			[
-				"use",
-				"user"
-			],
-			[
-				"iss",
-				"isset_user"
-			],
-			[
-				"su",
-				"surname"
-			],
-			[
-				"em",
-				"email"
-			],
-			[
-				"ro",
-				"role"
-			],
-			[
-				"json",
-				"json_decode"
-			],
-			[
-				"us",
-				"user_id"
-			],
-			[
-				"vide",
-				"videos"
-			],
-			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"op",
-				"option\tTag"
-			],
-			[
-				"for",
-				"form\tTag"
-			],
-			[
-				"video",
-				"video_path"
-			],
-			[
-				"comm",
-				"comment"
-			],
-			[
-				"user",
-				"user_id"
-			],
-			[
-				"com",
-				"comment_id"
-			],
-			[
-				"pos",
-				"post"
-			],
-			[
-				"vid",
-				"video_id"
-			],
-			[
-				"fo",
-				"font-size"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"im",
-				"image"
-			],
-			[
-				"F",
-				"File"
-			],
-			[
-				"Htt",
-				"HttpFoundation"
-			],
-			[
-				"vi",
-				"video_file"
-			],
-			[
-				"ima",
-				"image_path"
-			],
-			[
-				"nan",
-				"navbar-brand"
-			],
-			[
-				"no",
-				"note"
-			],
-			[
-				"u",
-				"ul\tTag"
-			],
-			[
-				"Re",
-				"Request"
-			],
-			[
-				"in",
-				"input\tTag"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"is_n",
-				"is_null"
-			],
-			[
-				"o",
-				"orWi"
-			],
-			[
-				"and",
-				"andWi"
-			],
-			[
-				"per",
-				"PerceptronOut"
-			],
-			[
-				"yn",
-				"yn2"
-			],
-			[
-				"ya",
-				"ya2"
-			],
-			[
-				"fu",
-				"funcNot"
-			],
-			[
-				"Per",
-				"PerceptronOut"
-			],
-			[
-				"O",
-				"Out"
-			],
-			[
-				"sh",
-				"showAndWi"
-			],
-			[
-				"an",
-				"andWi"
-			],
-			[
-				"dO",
-				"dOutput"
-			],
-			[
-				"y",
-				"yi"
-			],
-			[
-				"dx",
-				"dX3"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/models/user.ts",
+			"file": "app/Http/Controllers/UserController.php",
 			"settings":
 			{
-				"buffer_size": 192,
+				"buffer_size": 5120,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.html",
+			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login/login.component.ts",
 			"settings":
 			{
-				"buffer_size": 1117,
+				"buffer_size": 4568,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/index.html",
+			"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/services/user.service.ts",
 			"settings":
 			{
-				"buffer_size": 301,
+				"buffer_size": 2083,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -586,31 +586,108 @@
 	[
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app"
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/services"
 	],
 	"file_history":
 	[
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/services/user.service.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login/login.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login/login.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.module.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/index.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/styles.css",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/polyfills.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/main.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.routing.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/query/query.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/query/query.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/UserController.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Helpers/JwtAuth.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/User.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/Auth/LoginController.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Kernel.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Providers/JwtAuthServiceProvider.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/database.sql",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/Controller.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes/web.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/ngx-facebook-example/src/app/app.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/ngx-facebook-example/src/app/app.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/query/query.component.css",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/query.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/register/register.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/register/register.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/default/default.component.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/models/user.ts",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/asteriscos_hex.c",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/config/app.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/euler.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/collatz.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/collatz_graph.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/suma_fraccionaria.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/pi.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/asteriscos_tri.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/asteriscos_rec.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/divisores.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/tiempo_viaje.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/tabla_mult.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/sum_entre_num.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/potencias_2.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/ciclos/multiplos.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/imc.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/triangulos.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/set_tenis.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/cumpleaños.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/palabra_larga.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/ordenamiento.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/letra_numero.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/calculadora.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/division.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/bisiesto.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/condicionales/par.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/huevo_copa.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/nota_final.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/parte_decimal.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/hora_futura.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/pitagoras.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/numero_inverso.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/conversor_cm_in.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/promedio.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/ejercicios_C/sencillos/Circulo.c",
+		"/home/alejandro-almanza/Plantillas/Practica_Programacion/saludo.c",
+		"/var/www/html/proyectos-angular5/client-angular/src/app/components/car-edit/car-edit.component.ts",
+		"/var/www/html/proyectos-angular5/client-angular/src/app/components/default/default.component.ts",
+		"/var/www/html/proyectos-angular5/client-angular/src/app/services/car.service.ts",
+		"/home/alejandro-almanza/Documentos/DICIS/Computación Flexible/PR2/AG.py",
+		"/home/alejandro-almanza/Documentos/DICIS/Computación Flexible/PR2/cruza.py",
+		"/home/alejandro-almanza/Documentos/DICIS/Computación Flexible/PR2/imgAleatoria.py",
+		"/home/alejandro-almanza/Documentos/DICIS/Computación Flexible/PR2/p.py",
+		"/home/alejandro-almanza/Documentos/DICIS/Computación Flexible/Algoritmo Genetico/AG.cpp",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/default/default.component.html",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/config/cors.php",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/services/global.ts",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/package.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/package-lock.json",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.css",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/register/register.component.css",
+		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login/login.component.css",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/typings.d.ts",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/.angular-cli.json",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/package.json",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Controllers/UserController.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Providers/JwtAuthServiceProvider.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Helpers/JwtAuth.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes/web.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/config/app.php",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/composer.json",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/package.json",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/database.sql",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/routes/api.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/User.php",
-		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/app/Http/Kernel.php",
 		"/home/alejandro-almanza/Documentos/Plataforma EAD/api-platform/.env",
 		"/home/alejandro-almanza/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
 		"/var/www/html/api-laravel/resources/views/welcome.blade.php",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/app.component.ts",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/app.routing.ts",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/components/login/login.component.ts",
-		"/var/www/html/proyectos-angular5/client-angular/src/app/components/default/default.component.ts",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/app.component.html",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/services/user.service.ts",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/components/login/login.component.html",
@@ -643,85 +720,11 @@
 		"/var/www/html/proyectos-angular5/client-angular/package.json",
 		"/var/www/html/proyectos-angular5/client-angular/src/app/models/car.ts",
 		"/var/www/html/proyectos-angular5/client-angular/src/index.html",
-		"/var/www/html/proyectos-angular5/client-angular/src/app/app.component.spec.ts",
-		"/var/www/html/proyectos-angular5/client-angular/src/typings.d.ts",
-		"/var/www/html/proyectos-angular5/client-angular/.angular-cli.json",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/app/app.module.ts",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/app/videojuegos/videojuegos.component.html",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/app/videojuegos/videojuegos.component.ts",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/app/app.component.html",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/app/app.component.ts",
-		"/var/www/html/proyectos-angular5/instalacion-angular5/src/index.html",
-		"/var/www/html/api-laravel/app/Http/Controllers/CarController.php",
-		"/var/www/html/api-laravel/app/Helpers/JwtAuth.php",
-		"/var/www/html/api-laravel/app/Providers/JwtAuthServiceProvider.php",
-		"/var/www/html/api-laravel/app/car.php",
-		"/var/www/html/api-laravel/composer.json",
-		"/var/www/html/api-laravel/.env",
-		"/var/www/html/api-laravel/database.sql",
-		"/var/www/html/vid_laravel/routes/web.php",
-		"/var/www/html/vid_laravel/resources/views/user/channel.blade.php",
-		"/var/www/html/vid_laravel/resources/views/video/detail.blade.php",
-		"/var/www/html/vid_laravel/resources/views/video/videosList.blade.php",
-		"/var/www/html/vid_laravel/app/Http/Controllers/UserController.php",
-		"/var/www/html/vid_laravel/app/Http/Controllers/VideoController.php",
-		"/var/www/html/vid_laravel/resources/views/video/search.blade.php",
-		"/var/www/html/vid_laravel/resources/views/home.blade.php",
-		"/var/www/html/vid_laravel/app/Http/Controllers/HomeController.php",
-		"/var/www/html/vid_laravel/resources/views/layouts/app.blade.php",
-		"/var/www/html/vid_laravel/public/css/style.css",
-		"/var/www/html/vid_laravel/resources/views/video/edit.blade.php",
-		"/var/www/html/vid_laravel/resources/views/video/createVideo.blade.php",
-		"/var/www/html/vid_laravel/resources/views/video/comments.blade.php",
-		"/var/www/html/vid_laravel/app/Http/Controllers/CommentController.php",
-		"/var/www/html/vid_laravel/app/comment.php",
-		"/var/www/html/vid_laravel/app/video.php",
-		"/var/www/html/vid_laravel/app/Providers/FormatTimeServiceProvider.php",
-		"/var/www/html/vid_laravel/app/Helpers/FormatTime.php",
-		"/var/www/html/vid_laravel/config/app.php",
-		"/var/www/html/vid_laravel/storage/app/public/css/style.css",
-		"/var/www/html/videos-laravel/app/Http/Controllers/VideoController.php",
-		"/var/www/html/videos-laravel/resources/views/video/createVideo.blade.php",
-		"/var/www/html/vid_laravel/config/filesystems.php",
-		"/var/www/html/videos-laravel/app/video.php",
-		"/var/www/html/vid_laravel/config/mail.php",
-		"/var/www/html/vid_laravel/config/queue.php",
-		"/var/www/html/vid_laravel/config/services.php",
-		"/var/www/html/vid_laravel/config/cache.php",
-		"/var/www/html/videos-laravel/routes/web.php",
-		"/var/www/html/videos-laravel/resources/views/layouts/app.blade.php",
-		"/var/www/html/videos-laravel/app/comment.php",
-		"/var/www/html/vid_laravel/.env",
-		"/var/www/html/vid_laravel/vendor/database.sql",
-		"/var/www/html/videos-laravel/database.sql",
-		"/var/www/html/videos_laravel/app/Http/routes.php",
-		"/var/www/html/videos_laravel/app/comment.php",
-		"/var/www/html/videos_laravel/app/video.php",
-		"/var/www/html/videos_laravel/database.sql",
-		"/var/www/html/videos_laravel/.env",
-		"/var/www/html/videos-laravel/app/Http/Controllers/HomeController.php",
-		"/var/www/html/videos-laravel/config/filesystems.php",
-		"/var/www/html/videos-laravel/config/cache.php",
-		"/var/www/html/videos-laravel/storage/app/images/laravel.jpeg",
-		"/var/www/html/videos-laravel/storage/app/images/1522189262laravel.jpeg",
-		"/var/www/html/videos-laravel/storage/app/images/1522189589laravel.jpeg",
-		"/var/www/html/videos-laravel/resources/views/layouts/prueba.blade.php",
-		"/var/www/html/videos-laravel/resources/views/home.blade.php",
-		"/var/www/html/videos-laravel/app/Http/Kernel.php",
-		"/var/www/html/videos-laravel/app/Http/Middleware/RedirectIfAuthenticated.php",
-		"/var/www/html/videos-laravel/app/Http/Middleware/VerifyCsrfToken.php",
-		"/var/www/html/videos-laravel/resources/views/prueba.blade.php",
-		"/var/www/html/videos-laravel/resources/views/welcome.blade.php",
-		"/var/www/html/videos-laravel/resources/views/auth/register.blade.php",
-		"/var/www/html/videos-laravel/.env",
-		"/var/www/html/videos-laravel/app/User.php",
-		"/var/www/html/curso-laravel/probando-laravel/app/Http/routes.php",
-		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/index.blade.php",
-		"/var/www/html/curso-laravel/probando-laravel/resources/views/notes/note.blade.php"
+		"/var/www/html/proyectos-angular5/client-angular/src/app/app.component.spec.ts"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -752,90 +755,93 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/models/user.ts",
+					"file": "app/Http/Controllers/UserController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 192,
+						"buffer_size": 5120,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								181,
-								181
+								2562,
+								2562
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/app.component.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1117,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								685,
-								685
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1037.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/index.html",
+					"buffer": 1,
+					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/components/login/login.component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 301,
+						"buffer_size": 4568,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								272,
-								272
+								3748,
+								3748
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/alejandro-almanza/Documentos/Plataforma EAD/client-platform/src/app/services/user.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -846,11 +852,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -891,7 +897,7 @@
 	"project": "api-platform.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -929,7 +935,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 264.0,
+	"side_bar_width": 239.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
